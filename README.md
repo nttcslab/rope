@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/OS-CentOS%207-green.svg)
 
-Code of the paper "[Reflectance-oriented probabilistic equalization for image enhancement](https://ieeexplore.ieee.org/document/9414651)" published in ICASSP 2021.
+Code of the paper "[Reflectance-oriented probabilistic equalization for image enhancement](https://arxiv.org/abs/2209.06406)" published in ICASSP 2021.
 
 * In this paper, we proposed a novel 2D histogram equalization approach known as reflectance-oriented probabilistic equalization (ROPE), which allows for adaptive regulation of global brightness.
 
